@@ -1,0 +1,3 @@
+test-suite simple :
+    [ run twice_test.cpp ]
+    ;
