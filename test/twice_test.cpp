@@ -3,6 +3,6 @@
 
 int main()
 {
-  BOOST_TEST(boost::simple::twice("foo") == "foofo");
+  BOOST_TEST(boost::simple::twice("foo") == "foofoo");
   return ::boost::report_errors();
 }
